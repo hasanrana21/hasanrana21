@@ -22,4 +22,4 @@ Skills:  JAVASCRIPT / VUE JS / NUXT JS / REACT JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/hasanrana21)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/hasanrana21)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/hasanrana21)
