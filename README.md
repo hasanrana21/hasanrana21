@@ -29,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanrana21&show_icons=true&locale=en&layout=compact" alt="hasanrana21" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hasanrana21&show_icons=true&locale=en" alt="hasanrana21" /></p>
-| `maroongold` ![maroongold][maroongold_repo] | `yeblu` ![yeblu][yeblu_repo] | `blueberry` ![blueberry][blueberry_repo] |
