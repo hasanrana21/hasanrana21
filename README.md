@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanrana21&label=Profile%20views&color=0e75b6&style=flat" alt="hasanrana21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanrana21" alt="hasanrana21" /></a> </p>
 
 - 🔭 I’m currently working on [BookeShelf](https://github.com/hasanrana21/Book-Shelf)
 
@@ -30,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanrana21&show_icons=true&locale=en&layout=compact" alt="hasanrana21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanrana21&show_icons=true&locale=en" alt="hasanrana21" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanrana21" alt="hasanrana21" /></a> </p>
