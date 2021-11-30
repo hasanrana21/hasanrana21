@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://professional-protfolio-hasan.netlify.app/](https://professional-protfolio-hasan.netlify.app/)
+- 👨‍💻 My Portfolio [https://professional-protfolio-hasan.netlify.app/](https://professional-protfolio-hasan.netlify.app/)
 
 - 📝 I regularly write articles on [https://hasanrana178821.medium.com/](https://hasanrana178821.medium.com/)
 
