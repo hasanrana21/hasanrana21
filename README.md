@@ -1,9 +1,9 @@
 <h3 align="left">Hey There👋,</h3>
  Myself Hasan Rana, A passionate Frontend Developer who has 1+ years of real-life work experience. Proficient in Javascript, Vue.js, React.js, and Frontend Development. I'm currently working on Vue.js Technology and also I worked on React.js. I love to always be up to date with the javascript framework/library and learn new technology. 
-<h5 align="center">A passionate Frontend Developer</h5>
+
 <p align="right"> 
-<img src="https://media-exp1.licdn.com/dms/image/D5635AQExspSCt7Yv4w/profile-framedphoto-shrink_200_200/0/1636628435479?e=1637823600&v=beta&t=80c_SeLPqShOs1Bm-oi13tgS_lmNbm5IWMB0J4y6WKI" alt="hasanrana21"/>
-</p>
+<!-- <img src="https://media-exp1.licdn.com/dms/image/D5635AQExspSCt7Yv4w/profile-framedphoto-shrink_200_200/0/1636628435479?e=1637823600&v=beta&t=80c_SeLPqShOs1Bm-oi13tgS_lmNbm5IWMB0J4y6WKI" alt="hasanrana21"/>
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanrana21&label=Profile%20views&color=0e75b6&style=flat" alt="hasanrana21" /> </p>
 
