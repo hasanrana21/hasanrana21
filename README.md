@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 My Portfolio [https://professional-protfolio-hasan.netlify.app/](https://professional-protfolio-hasan.netlify.app/)
+- 👨‍💻 My Portfolio [https://hasanrana-portfolio.netlify.app/](https://hasanrana-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://hasanrana178821.medium.com/](https://hasanrana178821.medium.com/)
 
