@@ -1,59 +1,130 @@
-<h3 align="left">Hey There👋,</h3>
- Myself Hasan Rana, A passionate Frontend Developer who has almost 2 years of real-life work experience. Proficient in Javascript, Vue.js, React.js, and Frontend Development. I'm currently working on Vue.js Technology and also I worked on React.js. I love to always be up to date with the javascript framework/library and learn new technology. 
+<div align="center">
 
-<p align="right"> 
-<!-- <img src="https://media-exp1.licdn.com/dms/image/D5635AQExspSCt7Yv4w/profile-framedphoto-shrink_200_200/0/1636628435479?e=1637823600&v=beta&t=80c_SeLPqShOs1Bm-oi13tgS_lmNbm5IWMB0J4y6WKI" alt="hasanrana21"/>
-</p> -->
+# Hi, I'm Hasan Rana 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanrana21&label=Profile%20views&color=0e75b6&style=flat" alt="hasanrana21" /> </p>
+### Frontend Engineer · React.js & Vue.js Specialist
 
+Building scalable, responsive and user-friendly web applications for **4.5+ years**.
+Based in Chattogram, Bangladesh 🇧🇩 · Open to global opportunities 🌍
 
-- 🔭 I’m currently working on [Book Worm](https://github.com/hasanrana21/book-worm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanrana21)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanrana178821@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hasanrana178821)
 
-- 🌱 I’m currently learning **Javascript**
+</div>
 
-- 👨‍💻 My Portfolio [https://hasanrana-portfolio.netlify.app/](https://hasanrana-portfolio.netlify.app/)
+---
 
-- 📝 I regularly write articles on [https://hasanrana178821.medium.com/](https://hasanrana178821.medium.com/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **hasanrana178821@gmail.com**
+I'm a frontend engineer who enjoys turning complex product requirements into clean, fast and maintainable interfaces. Since 2022 I've worked full-time in the industry, shipping production features in **Real Estate**, **SaaS**, **NGO platforms** and **FinTech**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cW9y6nEEUDpKZ_daSHALeU-JF3gWNA51/view?usp=sharing](https://drive.google.com/file/d/1cW9y6nEEUDpKZ_daSHALeU-JF3gWNA51/view?usp=sharing)
+I'm equally comfortable in **React/Next** and **Vue/Nuxt** ecosystems, which lets me pick the right tool for the product instead of forcing one framework everywhere.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" margin: 0px 40px>
+- 🔭 Focused on scalable architecture, performance and accessibility
+- 🌐 Experienced with multi-language apps (`react-i18next`)
+- 🤖 Comfortable with AI-driven development workflows
+- 🧠 Sharpening problem-solving on LeetCode, Codeforces and Coding Ninjas
+- 🤝 Looking for teams building meaningful products with international reach
 
-<!--  SOCIAL LINKS -->
-<a href="https://twitter.com/hasanrana_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanrana_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-rana-091803210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-rana-091803210/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15147271/hasan-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15147271/hasan-rana?tab=profile" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- JAVASCRIPT -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!--  REACT -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-<!-- VUE -->
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a>
-<!-- NUXT -->
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-</a>
-<!-- TAILWINDCSS -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
+## 🚀 Featured Projects
 
-<!-- OTHERS -->
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**Buildnw**](https://aajil.sa/) | Secure FinTech buy-now-pay-later and loan provisioning platform (Saudi Arabia) | `Next.js` `Redux` `Tailwind` `TypeScript` |
+| [**My Broker Cloud**](https://mybrokercloud.com/) | AI-powered real-estate platform | `Vue` `Pinia` `Vuetify` `Element Plus` |
+| [**Quantibly**](https://quantibly.com/) | NGO SaaS for employee history, dynamic reporting and board management | `Vue` `Vuex` `TypeScript` `Tailwind` `Chart.js` |
 
-<p> 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanrana21&show_icons=true&locale=en" alt="hasanrana21"/> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanrana21&show_icons=true&locale=en&layout=compact" alt="hasanrana21"/>
-</p>
+---
+
+## 🧩 Problem Solving
+
+I solve problems regularly on **LeetCode**, **Codeforces** and **Coding Ninjas (Code360)**. It keeps my fundamentals sharp and helps me break down real production problems faster.
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hasan_rana?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/hasan_rana/)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hasanrana_21&theme=dark)](https://codeforces.com/profile/hasanrana_21)
+
+</div>
+
+| Platform | Profile |
+| --- | --- |
+| 🟧 **LeetCode** | [hasan_rana](https://leetcode.com/u/hasan_rana/) |
+| 🟦 **Codeforces** | [hasanrana_21](https://codeforces.com/profile/hasanrana_21) |
+| 🟠 **Coding Ninjas** | [Code360 profile](https://www.naukri.com/code360/profile/1cce4fb1-fea9-4762-9890-2d19fc484511) |
+
+**My approach**
+
+1. **Understand** – clarify the goal and constraints before touching code
+2. **Break down** – split the problem into small, testable pieces
+3. **Solve simply** – start with a working solution, then optimize
+4. **Verify** – test edge cases and review complexity
+5. **Reflect** – note what I learned so the next problem is faster
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanrana21&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanrana21&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css" alt="Core" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,redux" alt="Frameworks" />
+
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Styling**
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling" />
+
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,postman" alt="Tools" />
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+
+| Area | Technologies |
+| --- | --- |
+| **Core** | JavaScript, TypeScript, C, C++, HTML5, CSS3 |
+| **Frameworks & Libraries** | React, Next.js, Vue, Nuxt, Redux, Pinia, Vuex |
+| **Styling** | Tailwind CSS, Bootstrap, Material UI, Vuetify |
+| **Tools** | Git, GitHub, VS Code, Figma, Vite, Postman |
+| **AI** | Claude, ChatGPT, Gemini, Codex |
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **frontend and full-stack roles**, collaborations and international remote opportunities. If you're building something interesting, I'd love to talk.
+
+<div align="center">
+
+⭐ *If you like what you see, feel free to star a repo or say hello!*
+
+</div>
